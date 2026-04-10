@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(npm start:*)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(npx create-next-app@latest:*)",
+      "Bash(npx shadcn@latest init -y)",
+      "Bash(npx shadcn@latest init -d)",
+      "Bash(npx shadcn@latest:*)"
+    ]
+  }
+}
